@@ -1,4 +1,4 @@
-package warmup.challenge;
+package interview.preparationkit.warmup.challenge;
 
 import java.util.Scanner;
 

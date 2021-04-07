@@ -1,11 +1,9 @@
-package warmup.challenge;
+package interview.preparationkit.warmup.challenge;
 
 /*
  * problem link : https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
  */
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class CountingValley {
